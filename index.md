@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-![text] (https://i.loli.net/2019/10/12/E38GsFUXTh1qIAr.png)
+![Image](https://i.loli.net/2019/10/12/E38GsFUXTh1qIAr.png)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
