@@ -5,9 +5,13 @@
 
 安卓用户使用手机自带扫码器或者uc浏览器扫一扫上图二维码，下载安装即可
 如上方图片加载失败，下方网址随意复制一个浏览器打开下载app安装即可
+<br>
 1、[http://dwz.win/nem](http://dwz.win/nem)
+<br>
 2、[https://url.cn/5dbgtXz](https://url.cn/5dbgtXz)
+<br>
 3、[http://1t.click/a9dd](http://1t.click/a9dd)
+<br>
 4、[http://suo.im/4n7LRq](http://suo.im/4n7LRq)
 
 <br>
